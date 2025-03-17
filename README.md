@@ -22,5 +22,5 @@ To find out, I used R to analysed data for 2,600 Netflix titles and uncovered so
 
 
 <div style="text-align: center;">
-    <img src="netflix_historic_comparisons.png" height="350">
+    <img src="netflix_historic_comparisons.png" width="800">
 </div>
