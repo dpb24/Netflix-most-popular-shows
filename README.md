@@ -17,9 +17,9 @@ To find out, I used R to analysed data for 2,600 Netflix titles and uncovered so
 
 
 ### 🔗 Project Resources:
-📖 Jupyter Notebook: [GitHub](https://github.com/dpb24/Netflix-most-popular-shows/blob/main/netflix-most-popular-shows.ipynb) <br>
+📖 Jupyter Notebook: [GitHub](https://github.com/dpb24/Netflix-most-popular-shows/blob/main/netflix-most-popular-shows.ipynb) | [Kaggle](https://www.kaggle.com/code/davidpbriggs/netflix-most-popular-shows) <br>
 📂 Dataset: [Netflix Global Top 10 weekly dataset](https://www.kaggle.com/datasets/davidpbriggs/most-popular-netflix-shows) <br>
-📊 Project also available on: [Kaggle](https://www.kaggle.com/code/davidpbriggs/netflix-most-popular-shows) <br>
+
 
 <div style="text-align: center;">
     <img src="netflix_historic_comparisons.png" height="350">
