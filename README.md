@@ -2,12 +2,11 @@
 
 Which are Netflix's Top 10 most popular shows of all time? How does the global audience for these titles compare to historic global TV broadcasts? <br>
 
-To find out, I used R to explore Netflix’s Global Top 10 weekly dataset and uncovered some fascinating insights. <br>
-
+To find out, I used R to analysed data for 2,600 Netflix titles and uncovered some fascinating insights. <br>
 
 ### 💡 Key findings:
 - Humanity has spent more time watching *'Squid Game: Season 1'* than the historic moon landings 🌕 <br>
-- But live TV isn’t dead yet! 📺 *'Stranger Things 4'* viewership took a dramatic hit during World Cup qualifying matches ⚽ <br>
+- Live TV isn’t dead yet! 📺 *'Stranger Things 4'* viewership took a dramatic hit during World Cup qualifying matches ⚽ <br>
 
 
 ### 📊 Analytical approach:
