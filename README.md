@@ -1,4 +1,5 @@
-# Netflix vs Moon Landings (R)
+# Netflix's Most Popular Shows (R)
+### 📺 Netflix vs Moon Landings 🚀 
 
 Which are Netflix's Top 10 most popular shows of all time? How does the global audience for these titles compare to historic global TV broadcasts? <br>
 
@@ -6,7 +7,7 @@ To find out, I used R to analysed data for 2,600 Netflix titles and uncovered so
 
 ### 💡 Key findings:
 - Humanity has spent more time watching *'Squid Game: Season 1'* than the historic moon landings 🌕 <br>
-- Live TV isn’t dead yet! 📺 *'Stranger Things 4'* viewership took a dramatic hit during World Cup qualifying matches ⚽ <br>
+- Live TV isn’t dead yet! *'Stranger Things 4'* viewership took a dramatic hit during World Cup qualifying matches ⚽ <br>
 
 
 ### 📊 Analytical approach:
